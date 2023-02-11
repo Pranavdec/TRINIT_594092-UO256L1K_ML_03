@@ -8,6 +8,6 @@ To run the project, follow the steps below:
 * Navigate to the project directory
 * Install requirements
 * Run the api.py file to start the machine learning model
-* In a new terminal window, run the user_app.py file to start the user interface
+* In a new terminal window, run the user_app.py file to start the user interface using "streamlit run user_app.py
 
 ## Note a point if the entered city name is wrong you will get some error displayed in the output.Instead of crop name , please check the name of the city before enterning.
