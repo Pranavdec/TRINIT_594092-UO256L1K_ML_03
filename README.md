@@ -9,3 +9,5 @@ To run the project, follow the steps below:
 * Install requirements
 * Run the api.py file to start the machine learning model
 * In a new terminal window, run the user_app.py file to start the user interface
+
+## Note a point if the entered city name is wrong you will get some error displayed in the output.Instead of crop name , please check the name of the city before enterning.
